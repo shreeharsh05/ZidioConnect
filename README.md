@@ -4,21 +4,6 @@ A Spring Boot–based job finding platform backend. This application provides AP
 
 ---
 
-## 📂 Project Structure
-
-ZidioConnect-main/
-├── pom.xml # Maven build configuration
-├── mvnw / mvnw.cmd # Maven wrapper scripts
-├── .gitignore
-├── .gitattributes
-└── src/ # Application source code
-├── main/
-│ ├── java/ # Java source (controllers, services, models)
-│ └── resources/ # Application properties, templates, static files
-└── test/ # Unit and integration tests
-
-
----
 
 ## 🚀 Features
 
